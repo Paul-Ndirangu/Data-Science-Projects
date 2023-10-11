@@ -24,6 +24,8 @@ This repository is meant to showcase a variety of data science projects, ranging
 
 4. [Image Classification](./image_classification): Using deep learning models to classify images into predefined categories.
 
+5. [Computer Vision](./computer_vision): Using deep learning models to build computer vision models.
+
 ## Usage
 
 To use any of the projects in this repository, follow the instructions provided in the respective project directories. Each project directory contains a README file with specific information on how to set up the environment, run the code, and interpret the results.
