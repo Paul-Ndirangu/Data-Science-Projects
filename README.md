@@ -16,7 +16,11 @@ This repository is meant to showcase a variety of data science projects, ranging
 
 ## Project List
 
-1. [Customer Segmentation](./customer_segmentation): An analysis of customer data to identify distinct customer segments using clustering algorithms.
+1. [Car Price Prediction](./car_price_prediction/): Prediction of car prices.
+
+2. [Healthcare Insurance Expences](./healthcare-insurance-expenses/): Expences of health
+
+<!-- 1. [Customer Segmentation](./customer_segmentation): An analysis of customer data to identify distinct customer segments using clustering algorithms.
    
 2. [Sentiment Analysis](./sentiment_analysis): Analyzing text data to determine the sentiment (positive, negative, or neutral) using natural language processing techniques.
 
@@ -24,7 +28,7 @@ This repository is meant to showcase a variety of data science projects, ranging
 
 4. [Image Classification](./image_classification): Using deep learning models to classify images into predefined categories.
 
-5. [Computer Vision](./computer_vision): Using deep learning models to build computer vision models.
+5. [Computer Vision](./computer_vision): Using deep learning models to build computer vision models. -->
 
 ## Usage
 
