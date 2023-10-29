@@ -1,6 +1,6 @@
 # Healthcare Insurance Predictive Model
 
-![Healthcare Image](https://yourimageurl.com/healthcare_image.png)
+![Healthcare Image](https://media.istockphoto.com/id/1012323872/photo/medical-insurance-concept-with-family-and-stethoscope-on-wooden-desk.jpg?s=612x612&w=0&k=20&c=fBRwbx_iRR50Kr4uw_ofRrq7nRryP_BeCm5doXpX2Sc=)
 
 ## Overview
 
