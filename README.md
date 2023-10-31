@@ -22,6 +22,8 @@ This repository is meant to showcase a variety of data science projects, ranging
 
 3. [Electricity Price Prediction](): Electricity Price Prediction
 
+4. 
+
 <!-- 1. [Customer Segmentation](./customer_segmentation): An analysis of customer data to identify distinct customer segments using clustering algorithms.
    
 2. [Sentiment Analysis](./sentiment_analysis): Analyzing text data to determine the sentiment (positive, negative, or neutral) using natural language processing techniques.
