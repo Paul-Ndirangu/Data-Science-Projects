@@ -20,9 +20,9 @@ This repository is meant to showcase a variety of data science projects, ranging
 
 2. [Healthcare Insurance Expences](./healthcare-insurance-expenses/): Expences of health
 
-3. [Electricity Price Prediction](): Electricity Price Prediction
+3. [Customer Shopping Trends Dataset](./shopping_trends/): Shopping Trends
 
-4. 
+4. ...
 
 <!-- 1. [Customer Segmentation](./customer_segmentation): An analysis of customer data to identify distinct customer segments using clustering algorithms.
    
