@@ -39,7 +39,7 @@ This dataset is structured to provide a comprehensive overview of customer shopp
 
 ### Acknowledgement
 
-This dataset is a synthetic creation generated using ChatGPT to simulate a realistic customer shopping experience. Its purpose is to provide a platform for beginners and data enthusiasts, allowing them to create, enjoy, practice, and learn from a dataset that mirrors real-world customer shopping behavior. The aim is to foster learning and experimentation in a simulated environment, encouraging a deeper understanding of data analysis and interpretation in the context of consumer preferences and retail scenarios.
+This dataset Has been sourced from Kaggle.
 
 ### Cover Photo by
 
