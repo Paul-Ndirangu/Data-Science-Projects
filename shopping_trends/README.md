@@ -37,6 +37,10 @@ This dataset encompasses various features related to customer shopping preferenc
 
 This dataset is structured to provide a comprehensive overview of customer shopping behavior, facilitating analysis and interpretation in the context of consumer preferences and retail scenarios.
 
+### Contributors
+[Paul Ndirangu](paulmwaura254@gmail.com)
+
+
 ### Acknowledgement
 
 This dataset Has been sourced from Kaggle.
