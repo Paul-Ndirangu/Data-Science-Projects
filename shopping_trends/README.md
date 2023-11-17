@@ -49,3 +49,5 @@ This dataset Has been sourced from Kaggle.
 
 [Freepik](https://www.freepik.com/free-vector/hand-drawn-people-shopping-sale_12063508.htm#query=shopping%20cartoon&position=7&from_view=keyword&track=ais)
 
+## License
+MIT License
