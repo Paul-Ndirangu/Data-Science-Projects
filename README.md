@@ -39,7 +39,10 @@ This repository is meant to showcase a variety of data science projects, ranging
 To use any of the projects in this repository, follow the instructions provided in the respective project directories. Each project directory contains a README file with specific information on how to set up the environment, run the code, and interpret the results.
 
 ## Contributing
-
+>>
+[Laura Wangari](https://github.com/kari-hub)
+>>
+[Paul Ndirangu](https://github.com/Paul-Ndirangu/)
 If you'd like to contribute to this repository by adding a new project or improving an existing one, please follow these steps:
 
 1. Fork this repository.
@@ -51,6 +54,7 @@ If you'd like to contribute to this repository by adding a new project or improv
 
 Please make sure to follow the project structure and naming conventions outlined in the [Contributing Guidelines](CONTRIBUTING.md).
 
+### Questions and comments
 Reach me at [paulmwaura@gmail.com](mailto:paulmwaura254@gmail.com)
 
 ## License
