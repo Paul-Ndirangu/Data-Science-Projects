@@ -43,6 +43,7 @@ To use any of the projects in this repository, follow the instructions provided 
 [Laura Wangari](https://github.com/kari-hub)
 
 [Paul Ndirangu](https://github.com/Paul-Ndirangu/)
+
 If you'd like to contribute to this repository by adding a new project or improving an existing one, please follow these steps:
 
 1. Fork this repository.
